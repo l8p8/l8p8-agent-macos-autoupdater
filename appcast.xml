@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Loop8 Agent</title>
+        <item>
+            <title>0.1.1</title>
+            <pubDate>Mon, 04 Nov 2024 15:30:59 +0400</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/l8p8/l8p8-agent-macos-autoupdater/releases/download/v0.1.1/Loop8.Agent.dmg" length="2721420" type="application/octet-stream" sparkle:edSignature="/91Z7bFOQWBOCkcgHPfnugNuKO1usswta4txKqwtYiWgj+spNnwPW9CETahLeRieHf8WHcVr5wBTZ3OnsosGCw=="/>
+        </item>
+    </channel>
+</rss>
