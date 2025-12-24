@@ -3,12 +3,12 @@
     <channel>
         <title>Loop8 Agent</title>
         <item>
-            <title>0.1.4</title>
-            <pubDate>Thu, 10 Jul 2025 20:43:50 +0400</pubDate>
-            <sparkle:version>18</sparkle:version>
-            <sparkle:shortVersionString>0.1.4</sparkle:shortVersionString>
+            <title>0.26</title>
+            <pubDate>Wed, 24 Dec 2025 13:03:14 +0400</pubDate>
+            <sparkle:version>20</sparkle:version>
+            <sparkle:shortVersionString>0.26</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/l8p8/l8p8-agent-macos-autoupdater/releases/download/v0.1.4/Loop8.Agent.dmg" length="3749059" type="application/octet-stream" sparkle:edSignature="QS+XzEX5UbYx9CIDGZofuC/g8tyrndGYY/gZxNJvCxSO+PPBoYCxvSecxWDaJ/xejdzMMTPaL2F6pzXxXbwbDw=="/>
+            <enclosure url="https://github.com/l8p8/l8p8-agent-macos-autoupdater/releases/download/v0.26/Loop8.Agent.dmg" length="3840112" type="application/octet-stream" sparkle:edSignature="F8SLBA3Bn6rxS2KR0gEjrNbivlU7yabzhQ/84/Ws9eNWhB0fNekhNPG1ULGrszhqROABbfaQbFT5AWqYQ28bBg=="/>
         </item>
     </channel>
 </rss>
